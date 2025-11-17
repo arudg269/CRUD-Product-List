@@ -28,3 +28,10 @@ A aplicação está rodando em produção no Render. Clique para acessar a inter
 
 3. **Inicie o servidor**
    php artisan serve
+
+**xemplo de JSON para Criação (POST)**
+{
+    "name": "Notebook Gamer",
+    "description": "Processador i7, 16GB RAM",
+    "price": 4500.00
+}
